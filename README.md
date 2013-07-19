@@ -1,4 +1,4 @@
 CHALK-team-36
 =============
 
-Teaching Data-structures.
+Teaching Data-structures for CS3 project.
